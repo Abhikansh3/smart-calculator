@@ -3,7 +3,7 @@
 A small Python command-line calculator, built to practise Git and GitHub workflows.
 
 ## Features
-- Addition, subtraction, multiplication, division
+- Addition, subtraction, multiplication, division, modulo
 
 ## Division by zero
 Dividing by zero returns None.
