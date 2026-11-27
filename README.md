@@ -6,7 +6,7 @@ A small Python command-line calculator, built to practise Git and GitHub workflo
 - Addition, subtraction, multiplication, division, modulo
 
 ## Division by zero
-Dividing by zero returns None.
+Dividing by zero raises a ValueError.
 
 ## Usage
     python3 calculator.py
