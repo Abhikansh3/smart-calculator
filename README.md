@@ -10,3 +10,6 @@ Dividing by zero raises a ValueError.
 
 ## Usage
     python3 calculator.py
+
+## Author
+Abhikansh Mittal
